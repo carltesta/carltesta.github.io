@@ -1,4 +1,5 @@
 [
+{ "url":"accbass/accbass.wav","type":"audio","bank":"accbass","n":0},
 { "url":"avameow/avameow.wav","type":"audio","bank":"avameow","n":0},
 { "url":"avasnap/snap.wav","type":"audio","bank":"avasnap","n":0},
 { "url":"carl/a.wav","type":"audio","bank":"carl","n":0},
@@ -22,10 +23,12 @@
 { "url":"carl/scanner.wav","type":"audio","bank":"carl","n":18},
 { "url":"ecapiano/piano0.wav","type":"audio","bank":"ecapiano","n":0},
 { "url":"emmytrumpet/emmytrumpet.wav","type":"audio","bank":"emmytrumpet","n":0},
+{ "url":"fire/fireshort.wav","type":"audio","bank":"fire","n":0},
 { "url":"hckick/hckickhigh.wav","type":"audio","bank":"hckick","n":0},
 { "url":"hckick/hckicklow.wav","type":"audio","bank":"hckick","n":1},
 { "url":"hckick/hckickmid.wav","type":"audio","bank":"hckick","n":2},
 { "url":"mandolin/Mandolin.wav","type":"audio","bank":"mandolin","n":0},
+{ "url":"night/nightshort.wav","type":"audio","bank":"night","n":0},
 { "url":"symb/symb.wav","type":"audio","bank":"symb","n":0},
 { "url":"vcsl/AltRecorder_SusVib_C4_rr1_Main.wav","type":"audio","bank":"vcsl","n":0},
 { "url":"vcsl/BrettTenor_NV_Main_C3_vl3_rr1.wav","type":"audio","bank":"vcsl","n":1},
